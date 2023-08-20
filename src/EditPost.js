@@ -15,7 +15,7 @@ const EditPost = () => {
       setEditTitle(post.title)
       setEditBody(post.body)
     }
-  }, [])
+  }, [post, setEditBody, setEditTitle])
   return (
     <main className="NewPost">
       { post &&
