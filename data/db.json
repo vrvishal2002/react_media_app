@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "react",
+      "datetime": "August 19, 2023, 1:53:37 AM",
+      "body": "Made a video about Tesla video"
+    },
+    {
+      "id": 2,
+      "title": "next.js",
+      "datetime": "August 18, 2023, 11:35:09 PM",
+      "body": "https://www.youtube.com/watch?v=6h649f2fB9Q&list=PL0Zuz27SZ-6Pk-QJIdGd1tGZEzy9RTgtj&pp=iAQB"
+    },
+    {
+      "id": 3,
+      "title": "custom hooks",
+      "datetime": "August 18, 2023, 11:34:16 PM",
+      "body": "https://www.youtube.com/watch?v=FB_kOSHk1DM&list=PL0Zuz27SZ-6PSdiQpSxO9zxvB0ns6m3ta&pp=iAQB"
+    },
+    {
+      "id": 4,
+      "title": "redux",
+      "datetime": "August 18, 2023, 11:29:50 PM",
+      "body": "https://www.youtube.com/playlist?list=PL0Zuz27SZ-6M1J5I1w2-uZx36Qp6qhjKo"
+    },
+    {
+      "id": 5,
+      "title": "type script",
+      "datetime": "August 18, 2023, 11:29:27 PM",
+      "body": "https://www.youtube.com/playlist?list=PL0Zuz27SZ-6P4vnjQ_PJ5iRYsqJkQhtUu\n"
+    },
+    {
+      "id": 6,
+      "title": "git & github",
+      "datetime": "August 18, 2023 11:36:34 PM",
+      "body": "https://www.youtube.com/watch?v=6KoBsJfYBPM&list=PL0Zuz27SZ-6PkWWk_mA2vkimUTJf81mNz&pp=iAQB"
+    }
+  ]
+}
