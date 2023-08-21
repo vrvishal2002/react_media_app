@@ -164,6 +164,15 @@ body {
 
 .postBody {
   margin: 1rem 0;
+  width: 80%;
+}
+
+textarea {
+  width: 95%;
+  height: 300px;
+  padding: 10px;
+  color: #000;
+  background-color: white;
 }
 
 .newPostForm {

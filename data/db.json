@@ -32,9 +32,15 @@
     },
     {
       "id": 7,
-      "title": "react",
-      "datetime": "August 20, 2023 8:49:04 PM",
-      "body": "study"
+      "title": "node.js",
+      "datetime": "August 20, 2023, 9:27:47 PM",
+      "body": "study react indepth"
+    },
+    {
+      "id": 8,
+      "title": "AI developer",
+      "datetime": "August 21, 2023, 12:53:01 PM",
+      "body": "Linear algebra for ML -> https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a\n\nData analysis -> https://www.youtube.com/watch?v=r-uOLxNrNk8\n\npython machine learning and ai mega course -> https://www.youtube.com/watch?v=WFr2WgN9_xE\n\nAI plays flopy bird -> https://www.youtube.com/playlist?list=PLzMcBGfZo4-lwGZWXz5Qgta_YNX3_vLS2\n\nMaster a Library: TensorFlow -> https://developers.google.com/machine-learning/crash-course/ml-intro\n\nStanford CS224N NLP - > https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ\n\n ChatGPT Prompt Engineering Course -> https://www.deeplearning.ai/short-courses/\n\nGoogle GenAI courses -> https://www.cloudskillsboost.google/journeys/118"
     }
   ]
 }

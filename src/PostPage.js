@@ -16,9 +16,11 @@ const PostPage = () => {
             <p className="postDate">
               {post.datetime}
             </p>
-            <p className="postBody">
-              {post.body}
-            </p>
+            <textarea id="postBody"
+              required
+              value={post.body}
+              disabled
+            />
             <Link to={`/edit/${post.id}`}>
               <button className="editButton">
                   Edit Post
